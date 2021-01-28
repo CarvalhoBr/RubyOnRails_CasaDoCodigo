@@ -1,4 +1,7 @@
 pt-BR:
+  errors:
+    form_error: Há erros no formulário, por favor verifique
+    
   users:
     new:
       title: Cadastro
