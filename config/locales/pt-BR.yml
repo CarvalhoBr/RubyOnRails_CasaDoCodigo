@@ -1,0 +1,50 @@
+pt-BR:
+  users:
+    new:
+      title: Cadastro
+    edit:
+      title: Editar
+    show:
+      title: Perfil
+      edit: Editar perfil
+  rooms:
+    index:
+      title: Quartos
+      show: Ver quarto
+      edit: Editar
+      destroy: Excluir
+      new: Novo quarto
+      table:
+        title: Título
+        location: Localização
+        description: Descrição
+    new:
+      title: Novo quarto
+    show:
+      title: Título
+      location: Localização
+      description: Descrição
+      edit: Editar
+    edit:
+      title: Editar quarto
+      show: Ver quarto
+    
+  links:
+    back: Voltar
+
+  activerecord:
+    models:
+      user: Usuário
+      room: Quarto
+    attributes:
+      user:
+        bio: Biografia
+        email: Email
+        full_name: Nome completo
+        location: Localização
+        password: Senha
+        password_confirmation: Confirme sua senha
+      room:
+        description: Descrição
+        location: Localização
+        title: Título
